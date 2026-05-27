@@ -5,7 +5,7 @@ metadata:
     app: mydep1
   name: mydep1
 spec:
-  replicas: 1
+  replicas: 5
   selector:
     matchLabels:
       app: mydep1
